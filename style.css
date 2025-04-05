@@ -1,0 +1,262 @@
+.body1{
+    background-color: #FFBFBA;
+    background-image: none;
+    background-image: linear-gradient(#FFBFBA, #c6514b);
+}
+body{
+    background-color: #FFBFBA;
+    background-image: url(image.png);
+    background-repeat: no-repeat;
+    background-size:cover ;
+}   
+table{
+    width: 196vb;
+    height: 100vh;
+    border-collapse: collapse; 
+}
+td{
+    width: 10vh;
+    border: 0px;
+    align-items: center;
+    text-align: center;
+    border: 0px black solid;
+}
+h3 {
+    margin: 0;
+}
+h4{ text-align: justify;
+    margin:50px;
+}
+.amelhor{
+    text-align: center;
+    vertical-align: top;
+    font-size: 35px;
+    background-color:#CE4A3B;
+ 
+}
+
+.titulo{
+    font-size: 70px;
+    text-align: right;
+    vertical-align: top;
+}
+.barra{
+    background-color: #D9D9D9;
+    height: 55px;
+    width: 800px;
+    vertical-align: middle; 
+    line-height: 55px;
+}
+.botao{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 50%;
+   
+}
+.fundo{
+    background-color: rgb(139, 139, 139);
+    height: auto;
+    width: auto;
+}
+.biglogo{
+    height: 500px;
+    width: 500px;
+}
+a{
+    color: black;
+    text-decoration: none;  
+}
+a:hover{color: rgb(0, 27, 102);}
+.escritorio{
+    height: 550px;
+    width: 850px;
+    border-radius: 5px;
+}
+.sobrenos{
+    font-size:70px ;
+    vertical-align: top;
+ }
+ .atc{
+   font-size: 60px;
+ }
+ .dive{
+   background-color: #ff1900; 
+   border-radius: 25px;
+   width: 900px;
+   height: 200px;
+   font-size: 50px;
+ }
+ .divef
+ {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 70px;
+ }
+.pesquisa
+{
+ background-color: #D9D9D9;   
+ border-radius: 10px; 
+ padding-left: 5px;
+}
+.contactusimg
+{
+width:700px;
+height: 1000px;
+padding-left: 1px;
+padding-right: 200px;    
+}
+.noscontate
+{
+    font-size: 100px;
+    
+}
+.contatos
+{
+    background-color: #CE4A3B;
+    border-radius: 15px;
+    text-align: left;
+    font-size: 35px;
+}
+.contatos2
+{
+    background-color: #CE4A3B;
+    border-radius: 15px;
+    text-align: left;
+    font-size: 35px;
+}
+.compre
+{
+    background-color: #CE4A3B;
+    border-radius: 15px;
+    text-align: left;
+    font-size: 35px;  
+    background-image: linear-gradient(#df9188 to #CE4A3B);
+}
+#barra
+{
+ background-color: #D9D9D9;
+ font-size: 50px;
+}
+#nc
+{
+    font-size: 80px;
+    padding-left: 395px;
+}
+#botao2
+{
+background-color: #9a9a9a;
+border-radius: 10px;
+height: 80px;
+width: 300px;
+}
+#tor
+{
+    font-size: 50px;
+}
+.hardwareimg
+{
+    width:800px;
+    height: 800px;
+    padding-left: 1px;
+    padding-right: 200px;  
+}
+#botao3
+{
+    background-color: #9a9a9a;
+    border-radius: 10px;
+    height: 120px;
+    width: 380px;
+    box-shadow: 5px 5px 10px black;
+}
+#comprar
+{
+    font-size: 70px;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 20px;
+}
+.caixaseta  
+{
+    background-color: #ffffff;
+    width: 100px;
+    height: 200px;
+    border-radius: 25px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.seta
+{
+    font-size: 80px;
+    text-align: center;
+    vertical-align: middle;
+    padding-top:50px;
+    padding-bottom: 50px;  
+}
+#sobrenose
+{
+    background-color: #c6514b48;
+    border-radius: 50px;
+}
+/*formatação das linhas*/
+.linha1{ 
+    height: 14vb;
+    width: 12%;
+    background-color: #ffffff;
+    }
+.linha2{
+    height: 5vb;
+    width: 5%;
+}
+.linha3{
+    height: 3vb;
+    width: 3%;
+}
+.linha4{
+    height: 5vb;
+    width: 5%;
+}
+.linha3us{
+    height:1vb;
+    width: 1%;
+    text-align: justify;
+    vertical-align: top;
+}
+/*fonte*/
+.inknut-antiqua-light {
+    font-family: "Inknut Antiqua", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  .inknut-antiqua-regular {
+    font-family: "Inknut Antiqua", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .inknut-antiqua-medium {
+    font-family: "Inknut Antiqua", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  .inknut-antiqua-semibold {
+    font-family: "Inknut Antiqua", serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  .inknut-antiqua-bold {
+    font-family: "Inknut Antiqua", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .inknut-antiqua-extrabold {
+    font-family: "Inknut Antiqua", serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  .inknut-antiqua-black {
+    font-family: "Inknut Antiqua", serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
